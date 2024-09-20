@@ -1,8 +1,1 @@
-# Gachon UMC
-University MakeUs Challenge (UMC) of Gachon University
-
-가천대학교 UMC 공용 Github Organization
-
-UMC 홈페이지 : https://www.makeus.in/umc
-
-카카오톡 문의하기 : http://pf.kakao.com/_yZxnmb/chat
+![7th_recruiting](https://github.com/user-attachments/assets/d2821978-81cc-4ed5-a3ac-a9ffd0296b6d)
