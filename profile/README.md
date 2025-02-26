@@ -1,1 +1,1 @@
-![7th_recruiting](https://github.com/user-attachments/assets/d2821978-81cc-4ed5-a3ac-a9ffd0296b6d)
+![](https://github.com/user-attachments/assets/2088c67d-0da2-4e21-8e19-ee356f3a5259)
