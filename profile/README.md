@@ -1,3 +1,1 @@
-<img width="2048" height="341" alt="image" src="https://github.com/user-attachments/assets/e122319f-0ad8-4270-b12c-848a18759a31" />
-
-
+<img width="2048" height="341" alt="11th_UMC_" src="https://github.com/user-attachments/assets/0188755e-3b6c-4cde-8a01-aef0d565748a" />
